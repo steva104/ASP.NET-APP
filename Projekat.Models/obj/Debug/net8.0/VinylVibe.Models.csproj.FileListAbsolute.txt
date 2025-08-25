@@ -1,0 +1,36 @@
+C:\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.deps.json
+C:\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.AssemblyInfoInputs.cache
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.AssemblyInfo.cs
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.csproj.CoreCompileInputs.cache
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.dll
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\refint\VinylVibe.Models.dll
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.pdb
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\ref\VinylVibe.Models.dll
+C:\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.deps.json
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\refint\VinylVibe.Models.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\ref\VinylVibe.Models.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\refint\VinylVibe.Models.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Models\obj\Debug\net8.0\ref\VinylVibe.Models.dll

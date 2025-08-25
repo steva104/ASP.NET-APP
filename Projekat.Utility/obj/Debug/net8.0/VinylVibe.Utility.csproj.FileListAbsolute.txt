@@ -1,0 +1,36 @@
+C:\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.deps.json
+C:\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.AssemblyInfoInputs.cache
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.AssemblyInfo.cs
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.csproj.CoreCompileInputs.cache
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.dll
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\refint\VinylVibe.Utility.dll
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\ref\VinylVibe.Utility.dll
+C:\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.deps.json
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\refint\VinylVibe.Utility.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\ref\VinylVibe.Utility.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\refint\VinylVibe.Utility.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.Utility\obj\Debug\net8.0\ref\VinylVibe.Utility.dll

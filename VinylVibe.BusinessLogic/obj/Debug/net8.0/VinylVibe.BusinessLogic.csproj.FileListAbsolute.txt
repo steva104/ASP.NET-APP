@@ -1,0 +1,38 @@
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.BusinessLogic.deps.json
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.BusinessLogic.dll
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.BusinessLogic.pdb
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVib.E2804A97.Up2Date
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.dll
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\refint\VinylVibe.BusinessLogic.dll
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.pdb
+C:\Users\Stevan\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\ref\VinylVibe.BusinessLogic.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.BusinessLogic.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.BusinessLogic.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.BusinessLogic.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVib.E2804A97.Up2Date
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\refint\VinylVibe.BusinessLogic.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\VinylVibe.BusinessLogic.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\VinylVibe.BusinessLogic\obj\Debug\net8.0\ref\VinylVibe.BusinessLogic.dll

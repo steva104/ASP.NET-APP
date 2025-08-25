@@ -1,0 +1,51 @@
+C:\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.deps.json
+C:\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.csproj.AssemblyReference.cache
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.AssemblyInfoInputs.cache
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.AssemblyInfo.cs
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVib.CA76823D.Up2Date
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\refint\VinylVibe.DataAccess.dll
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Projekat\Projekat.DataAccess\obj\Debug\net8.0\ref\VinylVibe.DataAccess.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.deps.json
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVib.CA76823D.Up2Date
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\refint\VinylVibe.DataAccess.dll
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Users\Stevan\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\ref\VinylVibe.DataAccess.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Models.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Utility.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Models.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\bin\Debug\net8.0\VinylVibe.Utility.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVib.CA76823D.Up2Date
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\refint\VinylVibe.DataAccess.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\VinylVibe.DataAccess.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\Desktop\Projekat\Projekat.DataAccess\obj\Debug\net8.0\ref\VinylVibe.DataAccess.dll
